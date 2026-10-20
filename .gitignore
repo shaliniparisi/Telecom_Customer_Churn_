@@ -1,1 +1,7 @@
-__pycache__/\n*.py[cod]\n.venv/\nvenv/\n.ipynb_checkpoints/\ndata/*.csv\nmodels/*.pkl\n.DS_Store\n
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+*.pyc
+venv/
+.env
